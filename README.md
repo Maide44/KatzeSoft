@@ -20,7 +20,7 @@ Es una herramienta que permite visualizar y comprender de manera gráfica los di
 * Diagrama de Casos de Uso
   * [Diagr. Caso de Uso](https://i.ibb.co/KcPKfQG/Secuencia.png "Link")
 * Diagrama de Secuencia
-  * [Diagr. de Secuencia]([https://ibb.co/353Rj8s.jpg](https://i.ibb.co/KcPKfQG/Secuencia.png) "Link")
+  * [Diagr. de Secuencia](https://i.ibb.co/5937QY3/Captura-de-pantalla-2024-11-06-234430.png "Link")
 
 ## Lenguaje de programación
 * Python
