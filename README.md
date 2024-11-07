@@ -34,7 +34,7 @@ Es una herramienta que permite visualizar y comprender de manera gráfica los di
 
 ## Cómo jugar
 
-1. Clonar el repositorio desde GitHub al IDE Visual Code| `<Code>` :[https://github.com/Maide44/KatzeSoft.git](https://github.com/Maide44/KatzeSoft "GitHub/Code/HTTPS")
+1. Clonar el repositorio desde GitHub al IDE Visual Code| `<Code>` :[https://github.com/Maide44/KatzeSoft.git]("https://github.com/Maide44/KatzeSoft.git")
 
 ``` 
 $ git clone https://github.com/Maide44/KatzeSoft.git
