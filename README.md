@@ -18,9 +18,9 @@ Este es un juego clásico de tres en raya implementado en Python, donde el jugad
 ## Modelo UML
 Es una herramienta que permite visualizar y comprender de manera gráfica los diferentes aspectos del sistema.
 * Diagrama de Casos de Uso
-  * [Diagr. Caso de Uso](https://i.ibb.co/KcPKfQG/Secuencia.png "Link")
+  * [Diagr. Caso de Uso](https://i.ibb.co/5937QY3/Captura-de-pantalla-2024-11-06-234430.png "Link")
 * Diagrama de Secuencia
-  * [Diagr. de Secuencia](https://i.ibb.co/5937QY3/Captura-de-pantalla-2024-11-06-234430.png "Link")
+  * [Diagr. de Secuencia](https://i.ibb.co/KcPKfQG/Secuencia.png "Link")
 
 ## Lenguaje de programación
 * Python
