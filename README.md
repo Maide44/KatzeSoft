@@ -7,6 +7,17 @@ Este es un juego clásico de tres en raya implementado en Python, donde el jugad
 
 
 ---
+## Requerimientos funcionales
+
+* Tablero de juego 3x3
+* 2 Jugadores (Jugador y Computadora)
+* Turnos para marcar casillas
+
+## Requerimientos no funcionales
+
+* Usabilidad
+* Rendimiento
+* Adaptabilidad
 
 ## Caraterísticas
 
