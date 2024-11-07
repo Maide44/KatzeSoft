@@ -3,12 +3,12 @@ Este es un juego clásico de tres en raya implementado en Python, donde el jugad
 
 ---
 
-<p align="center"><a target="_blank"><img src="Descargas/img1.png"></a></p>
+<p align="center"><a target="_blank"><img src="https://github.com/user-attachments/assets/82895d8f-3e35-460a-8230-4c6c264f096f"></a></p>
 
 
 ---
 
-## Carateristícas
+## Caraterísticas
 
 * Interfaz 
 * Jugabilidad contra la computadora
